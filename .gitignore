@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/src/NeatParser/obj/Debug
+/src/NeatParser/FileParser_Local.nuspec
+/src/NeatParser.UnitTests/obj/Debug
+/src/NeatParser/bin/Debug
+/src/NeatParser.UnitTests/bin/Debug
+/Deployment/Push.cmd
+*.nupkg
+/src/NeatParser/bin/Release
+/src/NeatParser/obj/Release
+/src/NeatParser.UnitTests/bin/Release
+/src/NeatParser.UnitTests/obj/Release
+/.vs/NeatParser/v15/Server/sqlite3
